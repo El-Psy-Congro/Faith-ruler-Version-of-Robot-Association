@@ -13,8 +13,10 @@
 PCB图正
 ![PCB图正面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/PCB_A.jpg)
 PCB图反面
-![PCB图反面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/PCB_A.jpg)
+![PCB图反面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/PCB_B.jpg)
 
+实物为V.1.17（因经济原因，V2.13未制作实物）
+制作工艺为黑油白字+沉金
 成品图正面
 ![成品图正面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/Finished_product_drawing_A.jpg)
 成品图反面
