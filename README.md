@@ -8,7 +8,7 @@
 3D模型图正面
 ![3D模型图正面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/3D_model_diagram_A.jpg)
 3D模型图反面
-![3D模型图反面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/3D_model_diagram_A.jpg)
+![3D模型图反面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/3D_model_diagram_B.jpg)
 
 PCB图正
 ![PCB图正面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/PCB_A.jpg)
@@ -20,4 +20,4 @@ PCB图反面
 成品图正面
 ![成品图正面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/Finished_product_drawing_A.jpg)
 成品图反面
-![成品图反面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/Finished_product_drawing_A.jpg)
+![成品图反面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/Finished_product_drawing_B.jpg)
