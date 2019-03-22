@@ -1,9 +1,9 @@
 # 信仰直尺——安徽工程大学机器人协会版
 ## 创意源于英伟达信仰直尺
 ## 2019.3 built by Frumig
-关于V2.13的更新
-	1.修正了刻度的bug（V1.17缺失了刻度数字2<br>
-	2.删除了徽章边缘的镂空（因个人认为镂空的效果并不是十分惊艳）
+关于V2.13的更新<br>
+      1.修正了刻度的bug（V1.17缺失了刻度数字2<br>
+      2.删除了徽章边缘的镂空（因个人认为镂空的效果并不是十分惊艳）
 
 3D模型图正面
 ![3D模型图正面](https://github.com/El-Psy-Congro/Faith-ruler-Version-of-Robot-Association/blob/master/Images/3D_model_diagram_A.jpg)
